@@ -1,0 +1,23 @@
+{
+    "include": [
+        "./src/**/*"
+    ],
+    "compilerOptions": {
+        "strict": true,
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "lib": [
+            "dom",
+            "es2015",
+            "es2017",
+            "es2020"
+        ],
+        "jsx": "react-jsx",
+        "moduleResolution": "node",
+        "target": "es2015",
+        "module": "esnext",
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "resolveJsonModule": true
+    }
+}
