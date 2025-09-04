@@ -87,7 +87,7 @@ const App: React.FC = () => {
               <p>
                 リンク先の稟議項目の具体記載例は
                 <a
-                  href="https://link-record-forked.vercel.app/"
+                  href="https://wc-linkrecord.vercel.app/"
                   className="text-indigo-600 hover:underline font-semibold p-1"
                 >
                   こちら
