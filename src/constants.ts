@@ -2,7 +2,7 @@ import type { FaqItem } from "./types";
 
 export const FAQ_DATA: FaqItem[] = [
   {
-      title: "1. 【テスト追記】お金を借りる",
+      title: "1. お金を借りる",
       children: [
         {
           title: '1.1 給与額"以下"の額を借りる',
