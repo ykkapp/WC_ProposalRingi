@@ -1780,15 +1780,15 @@ export const FAQ_DATA: FaqItem[] = [
               link: "【特例】現場限りの締日変更",
               details: {
                 applicableProject: "現場限りの締日変更",
-                subject: "現場限りの締日変更_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
+                subject: "現場限りの締日変更_株式会社XXX",
                 attachments: [
                   {
-                    name: "未定",
-                    required: true,
+                    name: "-",
+                    required: false,
                   },
                 ],
                 concurrentProposals: [],
-                applicationContent: "表題の件につきまして、下記にて現場限りの締日変更に関する申請を致します。\n■社名：XXX\n■対象月：XXX\n■請求額：XXX円（税込）\n■該当案件：XXX\n■経緯：XXX\n【支払い条件】XXX日締め・XXX日必着・翌々月XXX日払い（XXX日サイト）\n指定請求書：有or無\n\n＝＝\nご裁可の程、よろしくお願い致します。",
+                applicationContent: "表題の件につきまして、下記にて現場限りの締日変更に関する申請を致します。\n\n■社名：XXX\n■カスタマーNo：XXX\n■現場名：XXX\n■対象月：XX月( or XX月～)\n■請求額：XXX円（税込）\n■指定請求書：有or無\n■支払条件：\n■現行締日：XXX\n■変更後締日：XXX\n\n＝＝\n\nご裁可の程、よろしくお願い致します。",
               },
             },
           ],
@@ -1801,15 +1801,15 @@ export const FAQ_DATA: FaqItem[] = [
               link: "【特例】契約書と異なる現場表記での請求書発行",
               details: {
                 applicableProject: "契約書と異なる現場表記での請求書発行",
-                subject: "契約書と異なる現場表記での請求書発行_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
+                subject: "現場名変更_株式会社XXX",
                 attachments: [
                   {
-                    name: "未定",
-                    required: true,
+                    name: "-",
+                    required: false,
                   },
                 ],
                 concurrentProposals: [],
-                applicationContent: "表題の件につきまして、下記にて現場表記での請求書発行に関する申請を致します。\n■派遣先：XXX\n■技術社員：XXX\n■締日：XXX\n■変更前現場名：XXX\n■変更後現場名：XXX\n\n■経緯：XXX\n\n＝＝\nご裁可の程、よろしくお願い致します。",
+                applicationContent: "表題の件につきまして、下記にて現場表記での請求書発行に関する申請を致します。\n\n■派遣先：XXX\n■対象月：XX月\n■技術社員：XXX\n■締日：XXX\n■変更前現場名：XXX\n■変更後現場名：XXX\n\n＝＝\n\nご裁可の程、よろしくお願い致します。",
               },
             },
           ],
@@ -1827,15 +1827,15 @@ export const FAQ_DATA: FaqItem[] = [
               link: "【特例】未入金以外の合算請求",
               details: {
                 applicableProject: "未入金以外の合算請求",
-                subject: "未入金以外の合算請求_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
+                subject: "未入金以外の合算請求_株式会社XXX",
                 attachments: [
                   {
-                    name: "未定",
+                    name: "合算請求書2部（手元にない場合は添付不要）",
                     required: true,
                   },
                 ],
                 concurrentProposals: [],
-                applicationContent: "表題の件につきまして、下記にて合算請求に関する申請を致します。\n■技術者名：XXX\n■現場：XXX\n■金額：XXX円(税込)\n\n■経緯：XXX\n\n■変更前締日：締日：XX日　必着日：XX日　支払い日：翌月XX日\n■変更後締日：締日：XX日　必着日：XX日　支払い日：翌月XX日\n\n＝＝\nご裁可の程、よろしくお願い致します。",
+                applicationContent: "表題の件につきまして、下記にて合算請求に関する申請を致します。\n\n■技術者名：XXX\n■現場：XXX\n■合算対象：XX現場とXX現場\n■経緯：XXX（自由記載）\n\n＝＝\n\nご裁可の程、よろしくお願い致します。",
               },
             },
           ],
@@ -1848,15 +1848,15 @@ export const FAQ_DATA: FaqItem[] = [
               link: "【特例】技術者の経費精算を後任技術者の請求書で請求",
               details: {
                 applicableProject: "技術者の経費精算を後任技術者の請求書で請求",
-                subject: "技術者の経費精算を後任技術者の請求書で請求_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
+                subject: "合算請求_株式会社XXX（X月分Aさん/X月分Bさん）",
                 attachments: [
                   {
-                    name: "未定",
+                    name: "請求書（手元にない場合は添付不要）",
                     required: true,
                   },
                 ],
                 concurrentProposals: [],
-                applicationContent: "表題の件につきまして、下記にて後任技術者の請求書請求に関する申請を致します。\n■技術者名：XXX\n■社員番号：XXXXXXXX\n■カスタマーNO：XXXXXXXXX\n■現場名：XXX\n\n■経緯：XXX\n\n【請求額】\n〇〇金：XXX円\n〇〇金：XXX円\n〇〇金：XXX円\n\n合計：XXX円（税込み）\n\n＝＝\nご裁可の程、よろしくお願い致します。",
+                applicationContent: "表題の件につきまして、下記にて後任技術者の請求書請求に関する申請を致します。\n\n①\n■技術者名：XXX\n■社員番号：XXXXXXXX\n■対象月：X月\n■カスタマーNo：XXXXXXXXX\n■現場名：XXX\n②\n■技術者名：XXX\n■社員番号：XXXXXXXX\n■対象月：X月\n■カスタマーNo：XXXXXXXXX\n■現場名：XXX\n\n■経緯：XXX\n\n＝＝\n\nご裁可の程、よろしくお願い致します。",
               },
             },
           ],
@@ -1869,15 +1869,15 @@ export const FAQ_DATA: FaqItem[] = [
               link: "【特例】分割請求",
               details: {
                 applicableProject: "分割請求",
-                subject: "分割請求_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
+                subject: "分割請求_株式会社XXX",
                 attachments: [
                   {
-                    name: "未定",
-                    required: true,
+                    name: "-",
+                    required: false,
                   },
                 ],
                 concurrentProposals: [],
-                applicationContent: "表題の件につきまして、下記にて分割請求に関する申請を致します。\n①分割請求先：株式会社XXX\n■現場名：XXX\n■対象月：XXX\n■請求額：XXX円（税込）\n②分割請求先：株式会社XXX\n■現場名：XXX\n■対象月：XXX\n■請求額：XXX円（税込）\n\n合計額：XXXX円（税込）\n\n■経緯：XXX\n\n＝＝\nご裁可の程、よろしくお願い致します。",
+                applicationContent: "表題の件につきまして、下記にて分割請求に関する申請を致します。\n\n■技術者名：XXX\n■社員番号：XXXXXXXX\n■対象月：XXX\n\n①分割請求先：\n■現場名：XXX\n■分割内訳：ex.X月X日～X月X日まで\n\n②分割請求先：\n■現場名：XXX\n■分割内訳：ex.X月X日～X月X日まで\n\n■経緯：XXX\n\n＝＝\n\nご裁可の程、よろしくお願い致します。",
               },
             },
           ],
@@ -1890,15 +1890,15 @@ export const FAQ_DATA: FaqItem[] = [
               link: "【特例】人件費・残業代・交通費で請求明細を分割",
               details: {
                 applicableProject: "人件費・残業代・交通費で請求明細を分割",
-                subject: "人件費・残業代・交通費で請求明細を分割_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
+                subject: "請求明細を分割_株式会社XX",
                 attachments: [
                   {
-                    name: "未定",
-                    required: true,
+                    name: "-",
+                    required: false,
                   },
                 ],
                 concurrentProposals: [],
-                applicationContent: "【要変更】表題の件につきまして、下記にて請求明細分割に関する申請を致します。\n\n※要詳細確認（元申請はすべて文章で記載されているため必要項目の洗い出しと整理を先決）",
+                applicationContent: "表題の件につきまして、下記にて分割請求に関する申請を致します。\n\n■技術者名：XXX\n■社員番号：XXXXXXXX\n■派遣先：株式会社XXX\n■対象月：XXX\n\n①分割請求先：\n■現場名：XXX\n■分割内訳：交通費/残業代/人件費\n\n②分割請求先：\n■現場名：XXX\n■分割内訳：交通費/残業代/人件費\n\n■経緯：XXX\n\n＝＝\n\nご裁可の程、よろしくお願い致します。",
               },
             },
           ],
@@ -1916,15 +1916,15 @@ export const FAQ_DATA: FaqItem[] = [
               link: "【特例】勤怠入力、交通費・経費等の報告・申請の修正等に伴う売上の修正",
               details: {
                 applicableProject: "勤怠入力、交通費・経費等の報告・申請の修正等に伴う売上の修正",
-                subject: "勤怠入力、交通費・経費等の報告・申請の修正等に伴う売上の修正_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
+                subject: "XX月分人件費の売上修正_株式会社XXXX",
                 attachments: [
                   {
-                    name: "未定",
+                    name: "修正前請求書",
                     required: true,
                   },
                 ],
                 concurrentProposals: [],
-                applicationContent: "表題の件につきまして、下記にて売上修正に関する申請を致します。\n■技術社員：XXX\n■社員番号：XXX\n■社名：XXX\n■配属先：XXX\n■配属日：2025年XX月XX日～\n■差額金額：XXX円（税込）\n\n■差額発生経緯：XXX\n\n＝＝\nご裁可の程、よろしくお願い致します。",
+                applicationContent: "表題の件につきまして、下記にて売上修正に関する申請を致します。\n\n■技術社員：XXX\n■社員番号：XXX\n■請求対象月：XX月\n■社名：XXX\n■配属先：XXX\n■配属日：2025年XX月XX日～\n■差額金額：XXX円（税込）\n\n■差額発生経緯：XXX\n\n＝＝\n\nご裁可の程、よろしくお願い致します。",
               },
             },
           ],
@@ -1937,35 +1937,15 @@ export const FAQ_DATA: FaqItem[] = [
               link: "【特例】契約期間内で実働期間と差異が生じたが、請求可能となったものの請求",
               details: {
                 applicableProject: "契約期間内で実働期間と差異が生じたが、請求可能となったものの請求",
-                subject: "契約期間内で実働期間と差異が生じたが、請求可能となったものの請求_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
+                subject: "(差分請求の場合)差分請求依頼_X月分Aさん_株式会社XXX\n(単一請求の場合)新規請求依頼_X月分Aさん_株式会社XXX",
                 attachments: [
                   {
-                    name: "未定",
+                    name: "差が生じた際の勤務表",
                     required: true,
                   },
                 ],
                 concurrentProposals: [],
-                applicationContent: "表題の件につきまして、下記にて実働期間との差異請求に関する申請を致します。\n■技術者：XXX\n■社員番号：XXXXXXXX\n■現場名：XXX\n■補償請求期間：2025/XX/XX-2025/XX/XX（XX日間）\n■修正前金額：XXX\n■修正後金額：XXX\n\n■経緯：\n\n＝＝\nご裁可の程、よろしくお願い致します。",
-              },
-            },
-            {
-              title: "通信費の請求",
-              link: "【特例】通信費の請求",
-              details: {
-                applicableProject: "通信費の請求（要決裁申請書）",
-                subject: "通信費の請求_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
-                attachments: [
-                  {
-                    name: "通信費請求書",
-                    required: true,
-                  },
-                  {
-                    name: "未定",
-                    required: true,
-                  },
-                ],
-                concurrentProposals: [],
-                applicationContent: "表題の件につきまして、下記にて通信費請求に関する申請を致します。\n■技術社員名：XXX\n■配属先：XXX\n■該当案件：XXX\n■請求開始時期：2025年XX月XX日～\n\n■経緯：\n\n＝＝\nご裁可の程、よろしくお願い致します。",
+                applicationContent: "表題の件につきまして、下記にて実働期間との差異請求に関する申請を致します。\n\n■技術者：XXX\n■社員番号：XXXXXXXX\n■現場名：XXX\n■請求対象項目：ex.残業申請忘れ/領収書送付忘れ\n\n■経緯：\n\n＝＝\n\nご裁可の程、よろしくお願い致します。",
               },
             },
           ],
