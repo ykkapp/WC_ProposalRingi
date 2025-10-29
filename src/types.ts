@@ -15,6 +15,7 @@ export interface FaqItemDetails {
 export interface FaqItem {
   title: string;
   link?: string; // The final link destination for leaf nodes
+  url?: string;
   children?: FaqItem[]; // Nested items for expandable categories
   details?: FaqItemDetails; // Optional details for leaf nodes
 }
