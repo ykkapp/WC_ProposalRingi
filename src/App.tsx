@@ -90,7 +90,7 @@ const App: React.FC = () => {
                   href="https://wc-linkrecord.vercel.app/"
                   className="text-indigo-600 hover:underline font-semibold p-1"
                 >
-                  こちら
+                  (削除想定)こちら
                 </a>
                 を参照ください
               </p>

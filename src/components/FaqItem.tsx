@@ -281,8 +281,9 @@ const FaqItem: React.FC<FaqItemProps> = ({ item, level = 0, searchTerm }) => {
                   {item.link ? (
                     <div className="bg-slate-100 p-3 rounded-lg">
                       <a
-                        href="#"
-                        onClick={(e) => e.preventDefault()}
+                        href={item.url ?? "#"}
+                        target="_blank"
+                        rel="noopener noreferrer"                        
                         className="inline-flex items-center text-indigo-600 hover:text-indigo-800 font-semibold group text-base"
                         aria-label={`稟議リンク: ${item.link}`}
                       >
@@ -337,7 +338,8 @@ const FaqItem: React.FC<FaqItemProps> = ({ item, level = 0, searchTerm }) => {
                     <Placeholder />
                   )}
                 </div>
-
+                {/* ここから concurrentProposals セクションを非表示 */}
+                {false && (  
                 <div>
                   <label className="block text-sm font-medium text-slate-600 mb-1.5">
                     混同しやすい稟議
@@ -363,7 +365,8 @@ const FaqItem: React.FC<FaqItemProps> = ({ item, level = 0, searchTerm }) => {
                     <Placeholder />
                   )}
                 </div>
-
+                )}
+                {/* ここまで非表示 */}
                 <CopyableField
                   label="申請内容"
                   text={item.details?.applicationContent}
