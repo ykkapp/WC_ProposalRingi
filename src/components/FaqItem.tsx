@@ -221,6 +221,11 @@ const FaqItem: React.FC<FaqItemProps> = ({ item, level = 0, searchTerm }) => {
       </div>
     );
   }
+// 安全な配列に正規化
+const attachments = item.details?.attachments ?? [];
+const cps = item.details?.concurrentProposals ?? [];
+const hasAttachments = attachments.length > 0;
+const hasConcurrent = cps.length > 0;
 
   // Leaf Node (Link)
   return (
@@ -308,27 +313,14 @@ const FaqItem: React.FC<FaqItemProps> = ({ item, level = 0, searchTerm }) => {
                   <label className="block text-sm font-medium text-slate-600 mb-1.5">
                     添付書類
                   </label>
-                  {item.details?.attachments &&
-                  item.details.attachments.length > 0 ? (
+                  {hasAttachments ? (
                     <div className="bg-slate-100 p-3 rounded-lg space-y-2 text-base">
-                      {item.details.attachments.map((att, idx) => (
+                      {attachments.map((att, idx) => (
                         <div key={idx}>
-                          <span
-                            className={
-                              att.required
-                                ? "text-red-600 font-bold"
-                                : "text-slate-900"
-                            }
-                          >
+                          <span className={att.required ? "text-red-600 font-bold" : "text-slate-900"}>
                             {att.name}
                           </span>
-                          <span
-                            className={`text-xs ml-1 ${
-                              att.required
-                                ? "text-red-600 font-bold"
-                                : "text-slate-900"
-                            }`}
-                          >
+                          <span className={`text-xs ml-1 ${att.required ? "text-red-600 font-bold" : "text-slate-900"}`}>
                             ({att.required ? "必須" : "任意"})
                           </span>
                         </div>
@@ -339,32 +331,31 @@ const FaqItem: React.FC<FaqItemProps> = ({ item, level = 0, searchTerm }) => {
                   )}
                 </div>
                 {/* ここから concurrentProposals セクションを非表示 */}
-                {false && (  
-                <div>
-                  <label className="block text-sm font-medium text-slate-600 mb-1.5">
-                    混同しやすい稟議
-                  </label>
-                  {item.details?.concurrentProposals &&
-                  item.details.concurrentProposals.length > 0 ? (
-                    <div className="bg-slate-100 p-3 rounded-lg space-y-2">
-                      {item.details.concurrentProposals.map((prop, idx) => (
-                        <div key={idx} className="text-sm">
-                          <a
-                            href="#"
-                            onClick={(e) => e.preventDefault()}
-                            className="inline-flex items-center text-indigo-600 hover:text-indigo-800 font-semibold text-xs sm:text-sm bg-indigo-50 hover:bg-indigo-100 rounded-full px-3 py-1.5 transition-colors"
-                            aria-label={`混同稟議リンク: ${prop.link}`}
-                          >
-                            {prop.link}
-                            <LinkIcon className="h-3 w-3 ml-1" />
-                          </a>
-                        </div>
-                      ))}
-                    </div>
-                  ) : (
-                    <Placeholder />
-                  )}
-                </div>
+                {false && (
+                  <div>
+                    <label className="block text-sm font-medium text-slate-600 mb-1.5">
+                      混同しやすい稟議
+                    </label>
+                    {hasConcurrent ? (
+                      <div className="bg-slate-100 p-3 rounded-lg space-y-2">
+                        {cps.map((prop, idx) => (
+                          <div key={idx} className="text-sm">
+                            <a
+                              href="#"
+                              onClick={(e) => e.preventDefault()}
+                              className="inline-flex items-center text-indigo-600 hover:text-indigo-800 font-semibold text-xs sm:text-sm bg-indigo-50 hover:bg-indigo-100 rounded-full px-3 py-1.5 transition-colors"
+                              aria-label={`混同稟議リンク: ${prop.link}`}
+                            >
+                              {prop.title ?? prop.link}
+                              <LinkIcon className="h-3 w-3 ml-1" />
+                            </a>
+                          </div>
+                        ))}
+                      </div>
+                    ) : (
+                      <Placeholder />
+                    )}
+                  </div>
                 )}
                 {/* ここまで非表示 */}
                 <CopyableField
