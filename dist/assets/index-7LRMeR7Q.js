@@ -432,7 +432,7 @@ Error generating stack: `+u.message+`
 ・アカウント発行は情報システム部担当者に依頼します
 
 ＝＝
-ご裁可の程、よろしくお願い致します。`}}]}]},{title:"4. 技術社員に係る申請を行う",children:[{title:"4.1 給与改定を行う（昇給を含まない）",children:[{title:"事業部変更を伴う",link:"【WC-G2】原価変更_給与改定無",url:"https://ssl.wf.jobcan.jp/#/request/new/260327/",details:{applicableProject:"所属事業部変更に関する事項（事業部の変更に限定される場合)",subject:"所属事業部変更に関する事項（事業部の変更に限定される場合)_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",attachments:[{name:"★★11月留保★★",required:!1}],concurrentProposals:[{title:"",link:"★★11月留保★★"}],applicationContent:`表題の件につきまして、下記にて原価変更に関する申請を致します。
+ご裁可の程、よろしくお願い致します。`}}]}]},{title:"4. 技術社員に係る申請を行う",children:[{title:"4.1 給与改定を行う（昇給を含まない）",children:[{title:"事業部変更を伴う",link:"【WC-G2】原価変更_給与改定無",url:"https://ssl.wf.jobcan.jp/#/request/new/366978/",details:{applicableProject:"所属事業部変更に関する事項（事業部の変更に限定される場合)",subject:"所属事業部変更に関する事項（事業部の変更に限定される場合)_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",attachments:[{name:"★★11月留保★★",required:!1}],concurrentProposals:[{title:"",link:"★★11月留保★★"}],applicationContent:`表題の件につきまして、下記にて原価変更に関する申請を致します。
 
 社員氏名：XX
 社員番号：XXXXXXXX
@@ -503,7 +503,7 @@ Error generating stack: `+u.message+`
 （※添付必須）
 
 ＝＝
-ご裁可の程、よろしくお願い致します。`}}]},{title:"4.3 雇用形態変更を行う",children:[{title:"事業部変更を伴う",link:"【WC-G2】原価変更_給与改定有",url:"https://ssl.wf.jobcan.jp/#/request/new/260327/",details:{applicableProject:"所属事業部変更に関する事項（給与・雇用形態変更が伴う場合）",subject:"所属事業部変更に関する事項（給与・雇用形態変更が伴う場合）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",attachments:[{name:"★★11月留保★★",required:!1}],concurrentProposals:[{title:"",link:"★★11月留保★★"}],applicationContent:`表題の件につきまして、下記にて原価変更に関する申請を致します。
+ご裁可の程、よろしくお願い致します。`}}]},{title:"4.3 雇用形態変更を行う",children:[{title:"事業部変更を伴う",link:"【WC-G2】原価変更_給与改定有",url:"https://ssl.wf.jobcan.jp/#/request/new/366978/",details:{applicableProject:"所属事業部変更に関する事項（給与・雇用形態変更が伴う場合）",subject:"所属事業部変更に関する事項（給与・雇用形態変更が伴う場合）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",attachments:[{name:"★★11月留保★★",required:!1}],concurrentProposals:[{title:"",link:"★★11月留保★★"}],applicationContent:`表題の件につきまして、下記にて原価変更に関する申請を致します。
 
 社員氏名：XX
 社員番号：XXXXXXXX
@@ -538,7 +538,7 @@ ex.採用エリア外のため、通常案件供給ができないため
 ex.介護のため、変則的な働き方を希望されたため（本人希望によりフルタイムから条件変更を希望）
 
 ＝＝
-ご裁可の程、よろしくお願い致します。`}}]},{title:"4.4 事業部変更を行う（給与改定や雇用形態変更を伴わない）",children:[{title:"単純な事業部変更",link:"【WC-G2】原価変更_給与改定無",url:"https://ssl.wf.jobcan.jp/#/request/new/260327/",details:{applicableProject:"所属事業部変更に関する事項（事業部の変更に限定される場合)",subject:"所属事業部変更に関する事項（事業部の変更に限定される場合)_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",attachments:[{name:"★★11月留保★★",required:!1}],concurrentProposals:[{title:"",link:"★★11月留保★★"}],applicationContent:`表題の件につきまして、下記にて原価変更に関する申請を致します。
+ご裁可の程、よろしくお願い致します。`}}]},{title:"4.4 事業部変更を行う（給与改定や雇用形態変更を伴わない）",children:[{title:"単純な事業部変更",link:"【WC-G2】原価変更_給与改定無",url:"https://ssl.wf.jobcan.jp/#/request/new/366978/",details:{applicableProject:"所属事業部変更に関する事項（事業部の変更に限定される場合)",subject:"所属事業部変更に関する事項（事業部の変更に限定される場合)_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",attachments:[{name:"★★11月留保★★",required:!1}],concurrentProposals:[{title:"",link:"★★11月留保★★"}],applicationContent:`表題の件につきまして、下記にて原価変更に関する申請を致します。
 
 社員氏名：XX
 社員番号：XXXXXXXX
