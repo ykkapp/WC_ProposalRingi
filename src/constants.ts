@@ -425,7 +425,7 @@ export const FAQ_DATA: FaqItem[] = [
             {
               title: "顧客システムを利用する",
               link: "【WC-E】顧客システム利用",
-              url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+              url: "https://ssl.wf.jobcan.jp/#/request/new/222932/",
               details: {
                 applicableProject: "顧客システム利用に関する事項",
                 subject:
