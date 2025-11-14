@@ -8,7 +8,7 @@ export const FAQ_DATA = [
                     {
                         title: "100万円を超える",
                         link: "【WC-C】前払_100万円以上",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/222862/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-01/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "前払い（100万以上～1,000万未満）",
                             subject: "前払い（100万以上～1,000万未満）_株式会社XX_技術社員XX_番号XXXXXXXX",
@@ -25,7 +25,7 @@ export const FAQ_DATA = [
                     {
                         title: "100万円を超えない",
                         link: "【WC-C】前払_30万円以上",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/222862/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-02/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "前払い（30万以上～100万未満）",
                             subject: "前払い（30万以上～100万未満）_株式会社XX_技術社員XX_番号XXXXXXXX",
@@ -42,7 +42,7 @@ export const FAQ_DATA = [
                     {
                         title: "30万円を超えない",
                         link: "【WC-C】前払_30万円未満",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/222862/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-03/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "前払い（30万未満）",
                             subject: "前払い（30万未満）_株式会社XX_技術社員XX_番号XXXXXXXX",
@@ -64,7 +64,7 @@ export const FAQ_DATA = [
                     {
                         title: "100万円を超える",
                         link: "【WC-C】貸付金_100万円以上",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/222862/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-04/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "貸付（100万以上1,000万未満）",
                             subject: "貸付（100万以上1,000万未満）_株式会社XX_技術社員XX_番号XXXXXXXX",
@@ -81,7 +81,7 @@ export const FAQ_DATA = [
                     {
                         title: "20万円を超える",
                         link: "【WC-C】貸付金_20万円以上",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/222862/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-05/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "貸付（20万以上100万未満）",
                             subject: "貸付（20万以上100万未満）_株式会社XX_技術社員XX_番号XXXXXXXX",
@@ -98,7 +98,7 @@ export const FAQ_DATA = [
                     {
                         title: "20万円を超えない",
                         link: "【WC-C】貸付金_20万円未満",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/222862/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-06/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "貸付（20万未満）",
                             subject: "貸付（20万未満）_株式会社XX_技術社員XX_番号XXXXXXXX",
@@ -125,7 +125,7 @@ export const FAQ_DATA = [
                     {
                         title: "レオパレス",
                         link: "【WC-O】レンタル利用_費用発生有_レオパレス",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/285898/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-13/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "レオパレス",
                             subject: "-",
@@ -147,7 +147,7 @@ export const FAQ_DATA = [
                     {
                         title: "レンタカー",
                         link: "【WC-O】レンタル利用_費用発生有_レンタカー",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/285898/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-13/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "レンタカー",
                             subject: "-",
@@ -169,7 +169,7 @@ export const FAQ_DATA = [
                     {
                         title: "携帯電話",
                         link: "【WC-O】レンタル利用_費用発生有_携帯電話",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/285898/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-13/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "携帯電話",
                             subject: "-",
@@ -191,7 +191,7 @@ export const FAQ_DATA = [
                     {
                         title: "駐車場",
                         link: "【WC-O】レンタル利用_費用発生有_駐車場",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/285898/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-13/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "駐車場",
                             subject: "-",
@@ -213,7 +213,7 @@ export const FAQ_DATA = [
                     {
                         title: "賃貸アパート",
                         link: "【WC-O】レンタル利用_費用発生有_賃貸アパート",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/285898/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-13/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "その他賃貸アパート",
                             subject: "-",
@@ -240,7 +240,7 @@ export const FAQ_DATA = [
                     {
                         title: "レオパレス",
                         link: "【WC-N】レンタル利用_費用発生無_レオパレス",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/259117/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-14/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "レオパレス",
                             subject: "-",
@@ -262,7 +262,7 @@ export const FAQ_DATA = [
                     {
                         title: "レンタカー",
                         link: "【WC-N】レンタル利用_費用発生無_レンタカー",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/259117/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-14/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "レンタカー",
                             subject: "-",
@@ -284,7 +284,7 @@ export const FAQ_DATA = [
                     {
                         title: "携帯電話",
                         link: "【WC-N】レンタル利用_費用発生無_携帯電話",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/259117/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-14/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "携帯電話",
                             subject: "-",
@@ -306,7 +306,7 @@ export const FAQ_DATA = [
                     {
                         title: "駐車場",
                         link: "【WC-N】レンタル利用_費用発生無_駐車場",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/259117/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-14/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "駐車場",
                             subject: "-",
@@ -328,7 +328,7 @@ export const FAQ_DATA = [
                     {
                         title: "賃貸アパート",
                         link: "【WC-N】レンタル利用_費用発生無_賃貸アパート",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/259117/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-14/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "その他賃貸アパート",
                             subject: "-",
@@ -360,7 +360,7 @@ export const FAQ_DATA = [
                     {
                         title: "施工図を受託する",
                         link: "【WC-E】施工図受託",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/222932/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-07/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【顧客との取引条件】設定単価/企業設定単価を下回る契約_施工図",
                             subject: "設定単価/企業設定単価を下回る契約_施工図_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -377,7 +377,7 @@ export const FAQ_DATA = [
                     {
                         title: "当社書式で契約をする",
                         link: "【WC-G】自動車利用開始_当社書式_3者修正有",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-28/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "自動車利用に関する事項",
                             subject: "自動車利用に関する事項_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -391,7 +391,7 @@ export const FAQ_DATA = [
                     {
                         title: "自家用車を利用する",
                         link: "【WC-G】自動車利用開始_自家用車利用",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-29/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "自動車利用に関する事項",
                             subject: "自動車利用に関する事項_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -410,7 +410,7 @@ export const FAQ_DATA = [
                     {
                         title: "顧客システムを利用する",
                         link: "【WC-E】顧客システム利用",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/222932/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-15/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "顧客システム利用に関する事項",
                             subject: "顧客システム利用に関する事項_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -432,7 +432,7 @@ export const FAQ_DATA = [
                     {
                         title: "事業部変更を伴う",
                         link: "【WC-G2】原価変更_給与改定無",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/366978/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-17/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "所属事業部変更に関する事項（事業部の変更に限定される場合)",
                             subject: "所属事業部変更に関する事項（事業部の変更に限定される場合)_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -453,7 +453,7 @@ export const FAQ_DATA = [
                     {
                         title: "事業部変更を伴わず、本人対話の上で個別対応として行う",
                         link: "【WC-G】給与改定_個別給与改定 / 派遣先賞与支給",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-22/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "技術部社員の給与改定および賞与に関する事項（個別の給与改定に関する事項）",
                             subject: "技術部社員の給与改定および賞与に関する事項（個別の給与改定に関する事項）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -469,7 +469,7 @@ export const FAQ_DATA = [
                     {
                         title: "事業部変更を伴わず、「特別手当支給」を行う",
                         link: "【WC-G】給与改定_特別定期昇給 / 特別賞与支給",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-23/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "技術部社員の給与改定および賞与に関する事項（個別の給与改定に関する事項）",
                             subject: "技術部社員の給与改定および賞与に関する事項（個別の給与改定に関する事項）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -490,7 +490,7 @@ export const FAQ_DATA = [
                     {
                         title: "事業部変更を伴う",
                         link: "【WC-G2】原価変更_給与改定有",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/366978/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-16/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "所属事業部変更に関する事項（給与・雇用形態変更が伴う場合）",
                             subject: "所属事業部変更に関する事項（給与・雇用形態変更が伴う場合）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -506,7 +506,7 @@ export const FAQ_DATA = [
                     {
                         title: "事業部変更を伴わない",
                         link: "【WC-G】雇用切り替え",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-26/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "雇用切替に関する事項",
                             subject: "雇用切替に関する事項_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -527,7 +527,7 @@ export const FAQ_DATA = [
                     {
                         title: "単純な事業部変更",
                         link: "【WC-G2】原価変更_給与改定無",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/366978/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-17/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "所属事業部変更に関する事項（事業部の変更に限定される場合)",
                             subject: "所属事業部変更に関する事項（事業部の変更に限定される場合)_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -548,7 +548,7 @@ export const FAQ_DATA = [
                     {
                         title: "自動退職をする",
                         link: "【WC-G】退職_自動退職",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-18/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "自動退職の決定に関する事項（自動退職）",
                             subject: "自動退職の決定に関する事項（自動退職）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -560,7 +560,7 @@ export const FAQ_DATA = [
                     {
                         title: "満了退職をする",
                         link: "【WC-G】退職_満了退職",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-19/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "自動退職の決定に関する事項（満了退職）",
                             subject: "自動退職の決定に関する事項（満了退職）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -572,7 +572,7 @@ export const FAQ_DATA = [
                     {
                         title: "死亡退職をする",
                         link: "【WC-G】退職_死亡退職",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-20/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "自動退職の決定に関する事項（死亡退職）",
                             subject: "自動退職の決定に関する事項（死亡退職）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -586,7 +586,7 @@ export const FAQ_DATA = [
                     {
                         title: "不備の処理を依頼する",
                         link: "【WC-G】退職_不備処理依頼",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-21/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "自動退職の決定に関する事項（不備による処理の依頼）",
                             subject: "自動退職の決定に関する事項（不備による処理の依頼）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -603,7 +603,7 @@ export const FAQ_DATA = [
                     {
                         title: "事業部変更を伴わず、本人対話の上で個別対応として行う",
                         link: "【WC-G】給与改定_個別給与改定 / 派遣先賞与支給",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-22/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "技術部社員の給与改定および賞与に関する事項（個別の給与改定に関する事項）",
                             subject: "技術部社員の給与改定および賞与に関する事項（個別の給与改定に関する事項）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -619,7 +619,7 @@ export const FAQ_DATA = [
                     {
                         title: "事業部変更を伴わず、「特別手当支給」を行う",
                         link: "【WC-G】給与改定_特別定期昇給 / 特別賞与支給",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-23/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "技術部社員の給与改定および賞与に関する事項（個別の給与改定に関する事項）",
                             subject: "技術部社員の給与改定および賞与に関する事項（個別の給与改定に関する事項）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -640,7 +640,7 @@ export const FAQ_DATA = [
                     {
                         title: "給与保証の申請",
                         link: "【WC-G】給与保証",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-24/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "休業手当の支給割合変更、給与保証等に関する事項",
                             subject: "休業手当の支給割合変更、給与保証等に関する事項_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -657,7 +657,7 @@ export const FAQ_DATA = [
                     {
                         title: "雇用継続する",
                         link: "【WC-G】雇用継続",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-25/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "有期雇用社員の雇用継続に関する事項",
                             subject: "有期雇用社員の雇用継続に関する事項_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -674,7 +674,7 @@ export const FAQ_DATA = [
                     {
                         title: "転籍処理の申請",
                         link: "【WC-G】転籍",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-27/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "転籍に関する事項",
                             subject: "転籍に関する事項_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -696,7 +696,7 @@ export const FAQ_DATA = [
                     {
                         title: "値引き金額(税込)が1,500万円を超える",
                         link: "【WC-F】値引き_1,500万円以上",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/273392/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-08/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【クレーム・値引き】1,500万以上",
                             subject: "【クレーム・値引き】1,500万以上_株式会社XX_技術社員XX_番号XXXXXXXX",
@@ -717,7 +717,7 @@ export const FAQ_DATA = [
                     {
                         title: "値引き金額(税込)が1,000万円を超える",
                         link: "【WC-F】値引き_1,000万円以上",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/273392/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-09/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【クレーム・値引き】1,000万以上1,500万未満",
                             subject: "【クレーム・値引き】1,000万以上1,500万未満_株式会社XX_技術社員XX_番号XXXXXXXX",
@@ -738,7 +738,7 @@ export const FAQ_DATA = [
                     {
                         title: "値引き金額(税込)が50万円を超える",
                         link: "【WC-F】値引き_50万円以上",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/273392/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-10/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【クレーム・値引き】50万以上1,000万未満",
                             subject: "【クレーム・値引き】50万以上1,000万未満_株式会社XX_技術社員XX_番号XXXXXXXX",
@@ -755,7 +755,7 @@ export const FAQ_DATA = [
                     {
                         title: "値引き金額(税込)が10万円を超える",
                         link: "【WC-F】値引き_10万円以上",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/273392/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-11/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【クレーム・値引き】10万以上50万未満",
                             subject: "【クレーム・値引き】10万以上50万未満_株式会社XX_技術社員XX_番号XXXXXXXX",
@@ -776,7 +776,7 @@ export const FAQ_DATA = [
                     {
                         title: "値引き金額(税込)が10万円を超えない",
                         link: "【WC-F】値引き_10万円未満",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/273392/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-12/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【クレーム・値引き】10万未満",
                             subject: "【クレーム・値引き】10万未満_株式会社XX_技術社員XX_番号XXXXXXXX",
@@ -802,7 +802,7 @@ export const FAQ_DATA = [
                     {
                         title: "負担先を問わず、総額が60万円を超える",
                         link: "【WC-G】什器等破損_60万円以上",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-30/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -827,7 +827,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先となり、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担有",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-31/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -852,7 +852,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先とならず、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担無",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-32/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -869,7 +869,7 @@ export const FAQ_DATA = [
                     {
                         title: "負担先を問わず、総額が60万円を超える",
                         link: "【WC-G】什器等破損_60万円以上",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-30/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -894,7 +894,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先となり、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担有",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-31/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -919,7 +919,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先とならず、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担無",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-32/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -936,7 +936,7 @@ export const FAQ_DATA = [
                     {
                         title: "負担先を問わず、総額が60万円を超える",
                         link: "【WC-G】什器等破損_60万円以上",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-30/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -961,7 +961,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先となり、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担有",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-31/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -986,7 +986,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先とならず、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担無",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-32/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -1003,7 +1003,7 @@ export const FAQ_DATA = [
                     {
                         title: "負担先を問わず、総額が60万円を超える",
                         link: "【WC-G】什器等破損_60万円以上",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-30/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -1028,7 +1028,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先となり、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担有",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-31/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -1053,7 +1053,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先とならず、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担無",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-32/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -1075,7 +1075,7 @@ export const FAQ_DATA = [
                     {
                         title: "負担先を問わず、総額が60万円を超える",
                         link: "【WC-G】什器等破損_60万円以上",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-30/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -1100,7 +1100,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先となり、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担有",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-31/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -1125,7 +1125,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先とならず、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担無",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-32/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -1142,7 +1142,7 @@ export const FAQ_DATA = [
                     {
                         title: "負担先を問わず、総額が60万円を超える",
                         link: "【WC-G】什器等破損_60万円以上",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-30/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -1167,7 +1167,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先となり、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担有",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-31/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -1192,7 +1192,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先とならず、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担無",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-32/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -1209,7 +1209,7 @@ export const FAQ_DATA = [
                     {
                         title: "負担先を問わず、総額が60万円を超える",
                         link: "【WC-G】什器等破損_60万円以上",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-30/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -1234,7 +1234,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先となり、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担有",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-31/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -1259,7 +1259,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先とならず、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担無",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-32/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -1276,7 +1276,7 @@ export const FAQ_DATA = [
                     {
                         title: "負担先を問わず、総額が60万円を超える",
                         link: "【WC-G】什器等破損_60万円以上",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-30/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -1301,7 +1301,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先となり、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担有",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-31/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -1326,7 +1326,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先とならず、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担無",
-                        url: "https://ssl.wf.jobcan.jp/#/request/new/260327/",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-32/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）",
                             subject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",

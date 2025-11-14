@@ -82,19 +82,6 @@ const App: React.FC = () => {
                 必要な申請項目を選択するか、キーワードで検索してください。
               </p>
             </div>
-
-            <div className="text-center mb-1 text-slate-600">
-              <p>
-                リンク先の稟議項目の具体記載例は
-                <a
-                  href="https://wc-linkrecord.vercel.app/"
-                  className="text-indigo-600 hover:underline font-semibold p-1"
-                >
-                  (削除想定)こちら
-                </a>
-                を参照ください
-              </p>
-            </div>
             <div className="text-center mb-8 text-slate-600">
               <p>
                 もし起案できる稟議に複数候補がある場合は、
