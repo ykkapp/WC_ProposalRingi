@@ -1492,7 +1492,7 @@ export const FAQ_DATA: FaqItem[] = [
             {
               title: "現場限りの締日変更",
               link: "【特例】現場限りの締日変更",
-              url: "https://ssl.wf.jobcan.jp/#/request/new/289474/",
+              url: "https://sites.google.com/nareru-group.co.jp/ringi-33/ホーム",
               details: {
                 applicableProject: "現場限りの締日変更",
                 subject: "現場限りの締日変更_株式会社XXX",
@@ -1514,7 +1514,7 @@ export const FAQ_DATA: FaqItem[] = [
             {
               title: "契約書と異なる現場表記での請求書発行",
               link: "【特例】契約書と異なる現場表記での請求書発行",
-              url: "https://ssl.wf.jobcan.jp/#/request/new/289474/",
+              url: "https://sites.google.com/nareru-group.co.jp/ringi-40/ホーム",
               details: {
                 applicableProject: "契約書と異なる現場表記での請求書発行",
                 subject: "現場名変更_株式会社XXX",
@@ -1541,7 +1541,7 @@ export const FAQ_DATA: FaqItem[] = [
             {
               title: "未入金以外の合算請求",
               link: "【特例】未入金以外の合算請求",
-              url: "https://ssl.wf.jobcan.jp/#/request/new/289474/",
+              url: "https://sites.google.com/nareru-group.co.jp/ringi-35/ホーム",
               details: {
                 applicableProject: "未入金以外の合算請求",
                 subject: "未入金以外の合算請求_株式会社XXX",
@@ -1563,7 +1563,7 @@ export const FAQ_DATA: FaqItem[] = [
             {
               title: "技術者の経費精算を後任技術者の請求書で請求",
               link: "【特例】技術者の経費精算を後任技術者の請求書で請求",
-              url: "https://ssl.wf.jobcan.jp/#/request/new/289474/",
+              url: "https://sites.google.com/nareru-group.co.jp/ringi-36/ホーム",
               details: {
                 applicableProject: "技術者の経費精算を後任技術者の請求書で請求",
                 subject: "合算請求_株式会社XXX（X月分Aさん/X月分Bさん）",
@@ -1585,7 +1585,7 @@ export const FAQ_DATA: FaqItem[] = [
             {
               title: "分割請求",
               link: "【特例】分割請求",
-              url: "https://ssl.wf.jobcan.jp/#/request/new/289474/",
+              url: "https://sites.google.com/nareru-group.co.jp/ringi-39/ホーム",
               details: {
                 applicableProject: "分割請求",
                 subject: "分割請求_株式会社XXX",
@@ -1607,7 +1607,7 @@ export const FAQ_DATA: FaqItem[] = [
             {
               title: "人件費・残業代・交通費で請求明細を分割",
               link: "【特例】人件費・残業代・交通費で請求明細を分割",
-              url: "https://ssl.wf.jobcan.jp/#/request/new/289474/",
+              url: "https://sites.google.com/nareru-group.co.jp/ringi-41/ホーム",
               details: {
                 applicableProject: "人件費・残業代・交通費で請求明細を分割",
                 subject: "請求明細を分割_株式会社XX",
@@ -1634,7 +1634,7 @@ export const FAQ_DATA: FaqItem[] = [
             {
               title: "勤怠入力、交通費・経費等の報告・申請の修正等に伴う売上の修正",
               link: "【特例】勤怠入力、交通費・経費等の報告・申請の修正等に伴う売上の修正",
-              url: "https://ssl.wf.jobcan.jp/#/request/new/289474/",
+              url: "https://sites.google.com/nareru-group.co.jp/ringi-34/ホーム",
               details: {
                 applicableProject: "勤怠入力、交通費・経費等の報告・申請の修正等に伴う売上の修正",
                 subject: "XX月分人件費の売上修正_株式会社XXXX",
@@ -1656,7 +1656,7 @@ export const FAQ_DATA: FaqItem[] = [
             {
               title: "契約期間内で実働期間と差異が生じたが、請求可能となったものの請求",
               link: "【特例】契約期間内で実働期間と差異が生じたが、請求可能となったものの請求",
-              url: "https://ssl.wf.jobcan.jp/#/request/new/289474/",
+              url: "https://sites.google.com/nareru-group.co.jp/ringi-37/ホーム",
               details: {
                 applicableProject: "契約期間内で実働期間と差異が生じたが、請求可能となったものの請求",
                 subject: "(差分請求の場合)差分請求依頼_X月分Aさん_株式会社XXX\n(単一請求の場合)新規請求依頼_X月分Aさん_株式会社XXX",
