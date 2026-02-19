@@ -431,8 +431,8 @@ export const FAQ_DATA = [
                 children: [
                     {
                         title: "事業部変更を伴う",
-                        link: "【WC-G2】原価変更_給与改定無",
-                        url: "https://sites.google.com/nareru-group.co.jp/ringi-17/%E3%83%9B%E3%83%BC%E3%83%A0",
+                        link: "【WC-G】原価変更_給与改定無",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-29/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "所属事業部変更に関する事項（事業部の変更に限定される場合)",
                             subject: "所属事業部変更に関する事項（事業部の変更に限定される場合)_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -489,8 +489,8 @@ export const FAQ_DATA = [
                 children: [
                     {
                         title: "事業部変更を伴う",
-                        link: "【WC-G2】原価変更_給与改定有",
-                        url: "https://sites.google.com/nareru-group.co.jp/ringi-16/%E3%83%9B%E3%83%BC%E3%83%A0",
+                        link: "【WC-G】原価変更_給与改定有",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-29/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "所属事業部変更に関する事項（給与・雇用形態変更が伴う場合）",
                             subject: "所属事業部変更に関する事項（給与・雇用形態変更が伴う場合）_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
@@ -526,8 +526,8 @@ export const FAQ_DATA = [
                 children: [
                     {
                         title: "単純な事業部変更",
-                        link: "【WC-G2】原価変更_給与改定無",
-                        url: "https://sites.google.com/nareru-group.co.jp/ringi-17/%E3%83%9B%E3%83%BC%E3%83%A0",
+                        link: "【WC-G】原価変更_給与改定無",
+                        url: "https://sites.google.com/nareru-group.co.jp/ringi-29/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "所属事業部変更に関する事項（事業部の変更に限定される場合)",
                             subject: "所属事業部変更に関する事項（事業部の変更に限定される場合)_株式会社XXX_技術社員XXX_社員番号XXXXXXXX",
