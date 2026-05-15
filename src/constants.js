@@ -8,6 +8,7 @@ export const FAQ_DATA = [
                     {
                         title: "100万円を超える",
                         link: "【WC-C】前払_100万円以上",
+                        geminiUrl: "https://gemini.google.com/gem/1tecVCNl7ASPML8gxFLZkDjA7p3m4UPSk?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-01/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "前払い（100万以上～1,000万未満）",
@@ -25,6 +26,7 @@ export const FAQ_DATA = [
                     {
                         title: "100万円を超えない",
                         link: "【WC-C】前払_30万円以上",
+                        geminiUrl: "https://gemini.google.com/gem/17d9Zu8xuqTDoJiNDcQ4wVIoVrTzeVpYY?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-02/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "前払い（30万以上～100万未満）",
@@ -42,6 +44,7 @@ export const FAQ_DATA = [
                     {
                         title: "30万円を超えない",
                         link: "【WC-C】前払_30万円未満",
+                        geminiUrl: "https://gemini.google.com/gem/1LhZr7g9FWZup-Px2vraVuvpak-sKi5bg?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-03/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "前払い（30万未満）",
@@ -64,6 +67,7 @@ export const FAQ_DATA = [
                     {
                         title: "100万円を超える",
                         link: "【WC-C】貸付金_100万円以上",
+                        geminiUrl: "https://gemini.google.com/gem/1u0s57RfGDw2hE__j2EmXFBxpmeqZTdNH?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-04/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "貸付（100万以上1,000万未満）",
@@ -81,6 +85,7 @@ export const FAQ_DATA = [
                     {
                         title: "20万円を超える",
                         link: "【WC-C】貸付金_20万円以上",
+                        geminiUrl: "https://gemini.google.com/gem/1uoWbKY5nlopX3hy8kyZVOhMTr2jmAQRW?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-05/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "貸付（20万以上100万未満）",
@@ -98,6 +103,7 @@ export const FAQ_DATA = [
                     {
                         title: "20万円を超えない",
                         link: "【WC-C】貸付金_20万円未満",
+                        geminiUrl: "https://gemini.google.com/gem/1oG41BOnHRCuRpoy6Sl6FZYORZmwgWePt?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-06/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "貸付（20万未満）",
@@ -125,6 +131,7 @@ export const FAQ_DATA = [
                     {
                         title: "レオパレス",
                         link: "【WC-O】レンタル利用_費用発生有_レオパレス",
+                        geminiUrl: "https://gemini.google.com/gem/12XE2H1IsyYfkgBneXmgxJPiklELl8T8w?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-13/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "レオパレス",
@@ -240,6 +247,7 @@ export const FAQ_DATA = [
                     {
                         title: "レオパレス",
                         link: "【WC-N】レンタル利用_費用発生無_レオパレス",
+                        geminiUrl: "https://gemini.google.com/gem/1tjqhe1xLeb1HtcjI_IarwPQH3RR-beJJ?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-14/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "レオパレス",
@@ -360,6 +368,7 @@ export const FAQ_DATA = [
                     {
                         title: "施工図を受託する",
                         link: "【WC-E】施工図受託",
+                        geminiUrl: "https://gemini.google.com/gem/1GQR1UiGU_vvvPpQlVDsgRxvsJ2AFEj95?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-07/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【顧客との取引条件】設定単価/企業設定単価を下回る契約_施工図",
@@ -377,6 +386,7 @@ export const FAQ_DATA = [
                     {
                         title: "当社書式で契約をする",
                         link: "【WC-G】自動車利用開始_当社書式_3者修正有",
+                        geminiUrl: "https://gemini.google.com/gem/1hII2dEnx0r7MPS2q7mjswy4JwymYaQsB?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-28/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "自動車利用に関する事項",
@@ -391,6 +401,7 @@ export const FAQ_DATA = [
                     {
                         title: "自家用車を利用する",
                         link: "【WC-G】自動車利用開始_自家用車利用",
+                        geminiUrl: "https://gemini.google.com/gem/1ZL2peQeZQOkMhKY0LFxWYyhBDxBPEnW5?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-29/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "自動車利用に関する事項",
@@ -410,6 +421,7 @@ export const FAQ_DATA = [
                     {
                         title: "顧客システムを利用する",
                         link: "【WC-E】顧客システム利用",
+                        geminiUrl: "https://gemini.google.com/gem/1dN_GwW_2kygwSyYKFwse4rHBBShYIKiZ?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-15/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "顧客システム利用に関する事項",
@@ -432,6 +444,7 @@ export const FAQ_DATA = [
                     {
                         title: "事業部変更を伴う",
                         link: "【WC-G】原価変更_給与改定無",
+                        geminiUrl: "https://gemini.google.com/gem/1IxpvG9WRjopWA0EATjoTBzhJgxmGDdLb?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-17/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "所属事業部変更に関する事項（事業部の変更に限定される場合)",
@@ -453,6 +466,7 @@ export const FAQ_DATA = [
                     {
                         title: "事業部変更を伴わず、本人対話の上で個別対応として行う",
                         link: "【WC-G】給与改定_個別給与改定 / 派遣先賞与支給",
+                        geminiUrl: "https://gemini.google.com/gem/1Zt4ZBwRPIXmehWroEtSKiNj2nTt8lgIo?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-22/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "技術部社員の給与改定および賞与に関する事項（個別の給与改定に関する事項）",
@@ -469,6 +483,7 @@ export const FAQ_DATA = [
                     {
                         title: "事業部変更を伴わず、「特別手当支給」を行う",
                         link: "【WC-G】給与改定_特別定期昇給 / 特別賞与支給",
+                        geminiUrl: "https://gemini.google.com/gem/1RMxtULJaoTi_gNKNJZmXe_Phz6LkNwHt?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-23/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "技術部社員の給与改定および賞与に関する事項（個別の給与改定に関する事項）",
@@ -490,6 +505,7 @@ export const FAQ_DATA = [
                     {
                         title: "事業部変更を伴う",
                         link: "【WC-G】原価変更_給与改定有",
+                        geminiUrl: "https://gemini.google.com/gem/1lOPALFjMKBn3uZ3N_7HjisBZETImm0JJ?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-16/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "所属事業部変更に関する事項（給与・雇用形態変更が伴う場合）",
@@ -506,6 +522,7 @@ export const FAQ_DATA = [
                     {
                         title: "事業部変更を伴わない",
                         link: "【WC-G】雇用切り替え",
+                        geminiUrl: "https://gemini.google.com/gem/1gJppLh6nZ6ZHo_J_ckQGW6l7TdxhvtOy?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-26/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "雇用切替に関する事項",
@@ -527,6 +544,7 @@ export const FAQ_DATA = [
                     {
                         title: "単純な事業部変更",
                         link: "【WC-G】原価変更_給与改定無",
+                        geminiUrl: "https://gemini.google.com/gem/1IxpvG9WRjopWA0EATjoTBzhJgxmGDdLb?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-17/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "所属事業部変更に関する事項（事業部の変更に限定される場合)",
@@ -548,6 +566,7 @@ export const FAQ_DATA = [
                     {
                         title: "自動退職をする",
                         link: "【WC-G】退職_自動退職",
+                        geminiUrl: "https://gemini.google.com/gem/1mNPTNVgj1LhTAmFDj-t13L1PLK3RBzjL?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-18/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "自動退職の決定に関する事項（自動退職）",
@@ -560,6 +579,7 @@ export const FAQ_DATA = [
                     {
                         title: "満了退職をする",
                         link: "【WC-G】退職_満了退職",
+                        geminiUrl: "https://gemini.google.com/gem/1ZWN76LMKL9GIvt851JQmvxX2-vRdtNXK?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-19/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "自動退職の決定に関する事項（満了退職）",
@@ -572,6 +592,7 @@ export const FAQ_DATA = [
                     {
                         title: "死亡退職をする",
                         link: "【WC-G】退職_死亡退職",
+                        geminiUrl: "https://gemini.google.com/gem/17CVNWrlRzcsbh51_EYmJd-2ZNqZ70YuS?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-20/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "自動退職の決定に関する事項（死亡退職）",
@@ -586,6 +607,7 @@ export const FAQ_DATA = [
                     {
                         title: "不備の処理を依頼する",
                         link: "【WC-G】退職_不備処理依頼",
+                        geminiUrl: "https://gemini.google.com/gem/1XUqUEI8Dn_UX3tQ3tWfOhlh0YQ705yK-?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-21/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "自動退職の決定に関する事項（不備による処理の依頼）",
@@ -603,6 +625,7 @@ export const FAQ_DATA = [
                     {
                         title: "事業部変更を伴わず、本人対話の上で個別対応として行う",
                         link: "【WC-G】給与改定_個別給与改定 / 派遣先賞与支給",
+                        geminiUrl: "https://gemini.google.com/gem/1Zt4ZBwRPIXmehWroEtSKiNj2nTt8lgIo?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-22/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "技術部社員の給与改定および賞与に関する事項（個別の給与改定に関する事項）",
@@ -619,6 +642,7 @@ export const FAQ_DATA = [
                     {
                         title: "事業部変更を伴わず、「特別手当支給」を行う",
                         link: "【WC-G】給与改定_特別定期昇給 / 特別賞与支給",
+                        geminiUrl: "https://gemini.google.com/gem/1RMxtULJaoTi_gNKNJZmXe_Phz6LkNwHt?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-23/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "技術部社員の給与改定および賞与に関する事項（個別の給与改定に関する事項）",
@@ -640,6 +664,7 @@ export const FAQ_DATA = [
                     {
                         title: "給与保証の申請",
                         link: "【WC-G】給与保証",
+                        geminiUrl: "https://gemini.google.com/gem/17fYL5sKSDQHv0950zRCGeMhcrOy-zh5M?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-24/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "休業手当の支給割合変更、給与保証等に関する事項",
@@ -657,6 +682,7 @@ export const FAQ_DATA = [
                     {
                         title: "雇用継続する",
                         link: "【WC-G】雇用継続",
+                        geminiUrl: "https://gemini.google.com/gem/12tQF6PvTTEXvH5Zf1dpN4-S2E06iLIy9?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-25/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "有期雇用社員の雇用継続に関する事項",
@@ -674,6 +700,7 @@ export const FAQ_DATA = [
                     {
                         title: "転籍処理の申請",
                         link: "【WC-G】転籍",
+                        geminiUrl: "https://gemini.google.com/gem/1KccZtieP3T-vHUz0nKBebE_fltUuvPWI?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-27/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "転籍に関する事項",
@@ -696,6 +723,7 @@ export const FAQ_DATA = [
                     {
                         title: "値引き金額(税込)が1,500万円を超える",
                         link: "【WC-F】値引き_1,500万円以上",
+                        geminiUrl: "https://gemini.google.com/gem/1kdKmp0Uksj189ThF1c0BSsiT43iW0FKy?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-08/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【クレーム・値引き】1,500万以上",
@@ -717,6 +745,7 @@ export const FAQ_DATA = [
                     {
                         title: "値引き金額(税込)が1,000万円を超える",
                         link: "【WC-F】値引き_1,000万円以上",
+                        geminiUrl: "https://gemini.google.com/gem/15SpbU1MxBdRKwU9Q6v3y--uovWXA1BCK?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-09/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【クレーム・値引き】1,000万以上1,500万未満",
@@ -738,6 +767,7 @@ export const FAQ_DATA = [
                     {
                         title: "値引き金額(税込)が50万円を超える",
                         link: "【WC-F】値引き_50万円以上",
+                        geminiUrl: "https://gemini.google.com/gem/1S1uXCk5QwFUWETb2a0zgtK-R3rdMohXG?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-10/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【クレーム・値引き】50万以上1,000万未満",
@@ -755,6 +785,7 @@ export const FAQ_DATA = [
                     {
                         title: "値引き金額(税込)が10万円を超える",
                         link: "【WC-F】値引き_10万円以上",
+                        geminiUrl: "https://gemini.google.com/gem/1nfOxx0lrRI0tYSMJm2Lh6FOYE4OBxorN?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-11/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【クレーム・値引き】10万以上50万未満",
@@ -776,6 +807,7 @@ export const FAQ_DATA = [
                     {
                         title: "値引き金額(税込)が10万円を超えない",
                         link: "【WC-F】値引き_10万円未満",
+                        geminiUrl: "https://gemini.google.com/gem/1GZd88zTWvXmyw9lvPmrE4Jo_Q9ZJCy_z?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-12/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【クレーム・値引き】10万未満",
@@ -802,6 +834,7 @@ export const FAQ_DATA = [
                     {
                         title: "負担先を問わず、総額が60万円を超える",
                         link: "【WC-G】什器等破損_60万円以上",
+                        geminiUrl: "https://gemini.google.com/gem/1OUVrUNFzU_ozHPFyLed_dtvdThCoBUJ5?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-30/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満",
@@ -827,6 +860,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先となり、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担有",
+                        geminiUrl: "https://gemini.google.com/gem/1kqJVftjjxw8_jxzY1OjjdarSZdGkea8_?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-31/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）",
@@ -852,6 +886,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先とならず、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担無",
+                        geminiUrl: "https://gemini.google.com/gem/1tqcNjctTZx_dggbAc_EpaD5lvCKECUO_?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-32/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）",
@@ -869,6 +904,7 @@ export const FAQ_DATA = [
                     {
                         title: "負担先を問わず、総額が60万円を超える",
                         link: "【WC-G】什器等破損_60万円以上",
+                        geminiUrl: "https://gemini.google.com/gem/1OUVrUNFzU_ozHPFyLed_dtvdThCoBUJ5?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-30/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満",
@@ -894,6 +930,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先となり、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担有",
+                        geminiUrl: "https://gemini.google.com/gem/1kqJVftjjxw8_jxzY1OjjdarSZdGkea8_?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-31/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）",
@@ -919,6 +956,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先とならず、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担無",
+                        geminiUrl: "https://gemini.google.com/gem/1tqcNjctTZx_dggbAc_EpaD5lvCKECUO_?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-32/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）",
@@ -936,6 +974,7 @@ export const FAQ_DATA = [
                     {
                         title: "負担先を問わず、総額が60万円を超える",
                         link: "【WC-G】什器等破損_60万円以上",
+                        geminiUrl: "https://gemini.google.com/gem/1OUVrUNFzU_ozHPFyLed_dtvdThCoBUJ5?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-30/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満",
@@ -961,6 +1000,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先となり、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担有",
+                        geminiUrl: "https://gemini.google.com/gem/1kqJVftjjxw8_jxzY1OjjdarSZdGkea8_?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-31/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）",
@@ -986,6 +1026,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先とならず、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担無",
+                        geminiUrl: "https://gemini.google.com/gem/1tqcNjctTZx_dggbAc_EpaD5lvCKECUO_?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-32/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）",
@@ -1003,6 +1044,7 @@ export const FAQ_DATA = [
                     {
                         title: "負担先を問わず、総額が60万円を超える",
                         link: "【WC-G】什器等破損_60万円以上",
+                        geminiUrl: "https://gemini.google.com/gem/1OUVrUNFzU_ozHPFyLed_dtvdThCoBUJ5?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-30/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満",
@@ -1028,6 +1070,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先となり、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担有",
+                        geminiUrl: "https://gemini.google.com/gem/1kqJVftjjxw8_jxzY1OjjdarSZdGkea8_?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-31/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）",
@@ -1053,6 +1096,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先とならず、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担無",
+                        geminiUrl: "https://gemini.google.com/gem/1tqcNjctTZx_dggbAc_EpaD5lvCKECUO_?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-32/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）",
@@ -1075,6 +1119,7 @@ export const FAQ_DATA = [
                     {
                         title: "負担先を問わず、総額が60万円を超える",
                         link: "【WC-G】什器等破損_60万円以上",
+                        geminiUrl: "https://gemini.google.com/gem/1OUVrUNFzU_ozHPFyLed_dtvdThCoBUJ5?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-30/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満",
@@ -1100,6 +1145,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先となり、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担有",
+                        geminiUrl: "https://gemini.google.com/gem/1kqJVftjjxw8_jxzY1OjjdarSZdGkea8_?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-31/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）",
@@ -1125,6 +1171,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先とならず、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担無",
+                        geminiUrl: "https://gemini.google.com/gem/1tqcNjctTZx_dggbAc_EpaD5lvCKECUO_?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-32/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）",
@@ -1142,6 +1189,7 @@ export const FAQ_DATA = [
                     {
                         title: "負担先を問わず、総額が60万円を超える",
                         link: "【WC-G】什器等破損_60万円以上",
+                        geminiUrl: "https://gemini.google.com/gem/1OUVrUNFzU_ozHPFyLed_dtvdThCoBUJ5?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-30/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満",
@@ -1167,6 +1215,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先となり、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担有",
+                        geminiUrl: "https://gemini.google.com/gem/1kqJVftjjxw8_jxzY1OjjdarSZdGkea8_?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-31/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）",
@@ -1192,6 +1241,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先とならず、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担無",
+                        geminiUrl: "https://gemini.google.com/gem/1tqcNjctTZx_dggbAc_EpaD5lvCKECUO_?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-32/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）",
@@ -1209,6 +1259,7 @@ export const FAQ_DATA = [
                     {
                         title: "負担先を問わず、総額が60万円を超える",
                         link: "【WC-G】什器等破損_60万円以上",
+                        geminiUrl: "https://gemini.google.com/gem/1OUVrUNFzU_ozHPFyLed_dtvdThCoBUJ5?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-30/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満",
@@ -1234,6 +1285,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先となり、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担有",
+                        geminiUrl: "https://gemini.google.com/gem/1kqJVftjjxw8_jxzY1OjjdarSZdGkea8_?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-31/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）",
@@ -1259,6 +1311,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先とならず、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担無",
+                        geminiUrl: "https://gemini.google.com/gem/1tqcNjctTZx_dggbAc_EpaD5lvCKECUO_?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-32/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）",
@@ -1276,6 +1329,7 @@ export const FAQ_DATA = [
                     {
                         title: "負担先を問わず、総額が60万円を超える",
                         link: "【WC-G】什器等破損_60万円以上",
+                        geminiUrl: "https://gemini.google.com/gem/1OUVrUNFzU_ozHPFyLed_dtvdThCoBUJ5?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-30/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万円以上1,000万未満",
@@ -1301,6 +1355,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先となり、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担有",
+                        geminiUrl: "https://gemini.google.com/gem/1kqJVftjjxw8_jxzY1OjjdarSZdGkea8_?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-31/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担あり）",
@@ -1326,6 +1381,7 @@ export const FAQ_DATA = [
                     {
                         title: "会社が負担先とならず、総額が60万円を超えない",
                         link: "【WC-G】什器等破損_60万円未満_当社負担無",
+                        geminiUrl: "https://gemini.google.com/gem/1tqcNjctTZx_dggbAc_EpaD5lvCKECUO_?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-32/%E3%83%9B%E3%83%BC%E3%83%A0",
                         details: {
                             applicableProject: "【什器・備品・貸与品等の破損及び紛失費用負担】60万未満（当社負担なし）",
@@ -1350,6 +1406,7 @@ export const SPECIAL_REQUEST_DATA = [
                     {
                         title: "現場限りの締日変更",
                         link: "【特例】現場限りの締日変更",
+                        geminiUrl: "https://gemini.google.com/gem/1mW4U6aF0PBRDozzdBWM1GSAMvkMzbKDT?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-33/ホーム",
                         details: {
                             applicableProject: "現場限りの締日変更",
@@ -1372,6 +1429,7 @@ export const SPECIAL_REQUEST_DATA = [
                     {
                         title: "契約書と異なる現場表記での請求書発行",
                         link: "【特例】契約書と異なる現場表記での請求書発行",
+                        geminiUrl: "https://gemini.google.com/gem/1L4efcXL4l4KgLe0EglnGklXEoSCU9ogg?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-40/ホーム",
                         details: {
                             applicableProject: "契約書と異なる現場表記での請求書発行",
@@ -1399,6 +1457,7 @@ export const SPECIAL_REQUEST_DATA = [
                     {
                         title: "未入金以外の合算請求",
                         link: "【特例】未入金以外の合算請求",
+                        geminiUrl: "https://gemini.google.com/gem/1VKkyWK5v1DC5loqixeHM9mGn400bTt_C?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-35/ホーム",
                         details: {
                             applicableProject: "未入金以外の合算請求",
@@ -1421,6 +1480,7 @@ export const SPECIAL_REQUEST_DATA = [
                     {
                         title: "技術者の経費精算を後任技術者の請求書で請求",
                         link: "【特例】技術者の経費精算を後任技術者の請求書で請求",
+                        geminiUrl: "https://gemini.google.com/gem/1OIb0fuHDVz6O9Aqgdcg56MqolFgK2-hS?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-36/ホーム",
                         details: {
                             applicableProject: "技術者の経費精算を後任技術者の請求書で請求",
@@ -1443,6 +1503,7 @@ export const SPECIAL_REQUEST_DATA = [
                     {
                         title: "分割請求",
                         link: "【特例】分割請求",
+                        geminiUrl: "https://gemini.google.com/gem/1gag_VrVyNe9jPOo_CPY1KxDbABIC2Qmh?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-39/ホーム",
                         details: {
                             applicableProject: "分割請求",
@@ -1465,6 +1526,7 @@ export const SPECIAL_REQUEST_DATA = [
                     {
                         title: "人件費・残業代・交通費で請求明細を分割",
                         link: "【特例】人件費・残業代・交通費で請求明細を分割",
+                        geminiUrl: "https://gemini.google.com/gem/1ETm7VxbkhhFFEclNACWBXfUzQaETGs6B?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-41/ホーム",
                         details: {
                             applicableProject: "人件費・残業代・交通費で請求明細を分割",
@@ -1492,6 +1554,7 @@ export const SPECIAL_REQUEST_DATA = [
                     {
                         title: "勤怠入力、交通費・経費等の報告・申請の修正等に伴う売上の修正",
                         link: "【特例】勤怠入力、交通費・経費等の報告・申請の修正等に伴う売上の修正",
+                        geminiUrl: "https://gemini.google.com/gem/11BReZQbb0E1xGwLXxccKt8374PzRDQtL?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-34/ホーム",
                         details: {
                             applicableProject: "勤怠入力、交通費・経費等の報告・申請の修正等に伴う売上の修正",
@@ -1514,6 +1577,7 @@ export const SPECIAL_REQUEST_DATA = [
                     {
                         title: "契約期間内で実働期間と差異が生じたが、請求可能となったものの請求",
                         link: "【特例】契約期間内で実働期間と差異が生じたが、請求可能となったものの請求",
+                        geminiUrl: "https://gemini.google.com/gem/1cB8ZV8sushkaS9x7HIKY9HUGtTmtWQAa?usp=sharing",
                         url: "https://sites.google.com/nareru-group.co.jp/ringi-37/ホーム",
                         details: {
                             applicableProject: "契約期間内で実働期間と差異が生じたが、請求可能となったものの請求",

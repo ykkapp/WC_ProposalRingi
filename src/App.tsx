@@ -92,6 +92,23 @@ const App: React.FC = () => {
               </p>
             </div>
 
+            <div className="text-left mb-4 text-slate-600 bg-sky-50 border border-sky-200 rounded-lg p-4">
+              <p className="font-semibold text-sky-800 mb-2">
+                💬 汎用稟議申請サポートチャットはこちら
+              </p>
+              <p className="text-sky-700">
+                起案するべき稟議に悩む場合はこちらをお使いください：
+                <a
+                  href="https://gemini.google.com/gem/11TfYL6zCrelfxCMFsRAlc4l4tXwS5Ywh?usp=sharing"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-sky-700 hover:text-sky-900 hover:underline font-semibold"
+                >
+                  汎用稟議申請チャット
+                </a>
+              </p>
+            </div>
+
             <div className="text-left mb-8 text-slate-600 bg-yellow-50 border border-yellow-200 rounded-lg p-4">
               <p className="font-semibold text-yellow-800 mb-2">
                 ⚠️ 特例扱申請書の提出について

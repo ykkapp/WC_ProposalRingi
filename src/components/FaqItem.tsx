@@ -135,26 +135,47 @@ const FaqItem: React.FC<FaqItemProps> = ({ item, level = 0, searchTerm }) => {
       className={`border-b border-slate-200 last:border-b-0 ${levelStyles.bg}`}
     >
       <div
-        className="flex justify-between items-center py-3 pr-6"
+        className="flex justify-between items-center py-3 pr-6 gap-2"
         style={{ paddingLeft: levelStyles.paddingLeft }}
       >
         <span className={`${levelStyles.textSize} text-slate-700`}>
           {getHighlightedText(item.title, searchTerm)}
         </span>
-        {item.link && (
-          <a
-            href={item.url ?? "#"}
-            onClick={!item.url ? (e) => e.preventDefault() : undefined}
-            target={item.url ? "_blank" : undefined}
-            rel={item.url ? "noopener noreferrer" : undefined}
-            className="flex-shrink-0 flex items-center text-indigo-600 hover:text-indigo-800 font-semibold text-xs sm:text-sm bg-indigo-50 hover:bg-indigo-100 rounded-full px-3 py-1.5 transition-colors duration-150"
-          >
-            <span className="truncate">
-              {getHighlightedText(item.link, searchTerm)}
+        <div className="flex-shrink-0 flex items-center gap-2">
+          {item.geminiUrl ? (
+            <a
+              href={item.geminiUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center text-white hover:text-white font-semibold text-xs sm:text-sm bg-gradient-to-r from-blue-500 to-indigo-600 hover:from-blue-600 hover:to-indigo-700 rounded-full px-3 py-1.5 transition-all duration-150 shadow-sm"
+            >
+              <span>Gemini</span>
+              <LinkIcon />
+            </a>
+          ) : (
+            <span
+              title="リンク未設定"
+              aria-disabled="true"
+              className="flex items-center text-slate-400 font-semibold text-xs sm:text-sm bg-slate-100 rounded-full px-3 py-1.5 cursor-not-allowed select-none"
+            >
+              <span>Gemini</span>
             </span>
-            <LinkIcon />
-          </a>
-        )}
+          )}
+          {item.link && (
+            <a
+              href={item.url ?? "#"}
+              onClick={!item.url ? (e) => e.preventDefault() : undefined}
+              target={item.url ? "_blank" : undefined}
+              rel={item.url ? "noopener noreferrer" : undefined}
+              className="flex items-center text-indigo-600 hover:text-indigo-800 font-semibold text-xs sm:text-sm bg-indigo-50 hover:bg-indigo-100 rounded-full px-3 py-1.5 transition-colors duration-150"
+            >
+              <span className="truncate">
+                {getHighlightedText(item.link, searchTerm)}
+              </span>
+              <LinkIcon />
+            </a>
+          )}
+        </div>
       </div>
     </div>
   );

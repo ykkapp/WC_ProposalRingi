@@ -9,3 +9,9 @@ node_modules/
 .vite/
 
 __pycache__/
+
+# Vite transient timestamp files
+vite.config.ts.timestamp-*.mjs
+
+# Vite transient timestamp files
+vite.config.ts.timestamp-*.mjs
