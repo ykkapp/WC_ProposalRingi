@@ -99,7 +99,7 @@ const App: React.FC = () => {
               <p className="text-sky-700">
                 起案するべき稟議に悩む場合はこちらをお使いください：
                 {/* 準備中のためリンク無効化。準備完了後は下のURLで <a> に戻す:
-                    https://gemini.google.com/gem/11TfYL6zCrelfxCMFsRAlc4l4tXwS5Ywh?usp=sharing */}
+                    https://gemini.google.com/gem/1GGUJfNZw0xBts6tUHFkF2U52ocomCecH?usp=sharing */}
                 <span
                   title="準備中"
                   aria-disabled="true"
