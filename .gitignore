@@ -15,3 +15,11 @@ vite.config.ts.timestamp-*.mjs
 
 # Vite transient timestamp files
 vite.config.ts.timestamp-*.mjs
+
+# Stale TSC outputs (we use Vite, no need to emit JS)
+src/**/*.js
+src/**/*.jsx
+
+# Stale TSC outputs
+src/**/*.js
+src/**/*.jsx
