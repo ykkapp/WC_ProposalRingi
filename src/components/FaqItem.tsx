@@ -165,20 +165,6 @@ const FaqItem: React.FC<FaqItemProps> = ({ item, level = 0, searchTerm }) => {
                 <span>Gemini</span>
               </span>
             ))}
-          {item.link && (
-            <a
-              href={item.url ?? "#"}
-              onClick={!item.url ? (e) => e.preventDefault() : undefined}
-              target={item.url ? "_blank" : undefined}
-              rel={item.url ? "noopener noreferrer" : undefined}
-              className="flex items-center text-indigo-600 hover:text-indigo-800 font-semibold text-xs sm:text-sm bg-indigo-50 hover:bg-indigo-100 rounded-full px-3 py-1.5 transition-colors duration-150"
-            >
-              <span className="truncate">
-                {getHighlightedText(item.link, searchTerm)}
-              </span>
-              <LinkIcon />
-            </a>
-          )}
         </div>
       </div>
     </div>
