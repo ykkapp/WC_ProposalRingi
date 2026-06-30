@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import type { FaqItem as FaqItemType } from "../types";
 
 // 暫定非表示フラグ：Geminiボタンを一括で非表示にする。元に戻す場合は true に変更。
-const SHOW_GEMINI_BUTTON = false;
+const SHOW_GEMINI_BUTTON = true;
 
 const ChevronIcon: React.FC<{ isOpen: boolean }> = ({ isOpen }) => (
   <svg

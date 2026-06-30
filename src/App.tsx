@@ -98,15 +98,14 @@ const App: React.FC = () => {
               </p>
               <p className="text-sky-700">
                 起案するべき稟議に悩む場合はこちらをお使いください：
-                {/* 準備中のためリンク無効化。準備完了後は下のURLで <a> に戻す:
-                    https://gemini.google.com/gem/1GGUJfNZw0xBts6tUHFkF2U52ocomCecH?usp=sharing */}
-                <span
-                  title="準備中"
-                  aria-disabled="true"
-                  className="text-sky-700 font-semibold opacity-60 cursor-not-allowed select-none"
+                <a
+                  href="https://gemini.google.com/gem/1GGUJfNZw0xBts6tUHFkF2U52ocomCecH?usp=sharing"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-sky-700 hover:text-sky-900 hover:underline font-semibold"
                 >
-                  汎用稟議申請チャット（準備中）
-                </span>
+                  汎用稟議申請チャット
+                </a>
               </p>
             </div>
 
